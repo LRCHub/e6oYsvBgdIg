@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "シカせんべいのうた",
+  "base_artist": "鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)",
+  "createdAt": "2026-01-10T05:59:08.802070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ (CV.潘めぐみ)",
+      "has_synced": true,
+      "path": "select/01_シカせんべいのうた_鹿乃子のこ_(CV.潘めぐみ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
+      "has_synced": false,
+      "path": "select/02_シカせんべいのうた_鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ(CV. 潘めぐみ)、 虎視虎子(CV. 藤田咲)",
+      "has_synced": true,
+      "path": "select/03_シカせんべいのうた_鹿乃子のこ(CV._潘めぐみ)、_虎視虎子(CV._藤田咲).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シカせんべいのうた (Inst)",
+      "artist": "鹿乃子のこ(CV. 潘めぐみ)、 虎視虎子(CV. 藤田咲)",
+      "has_synced": true,
+      "path": "select/04_シカせんべいのうた_(Inst)_鹿乃子のこ(CV._潘めぐみ)、_虎視虎子(CV._藤田咲).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ",
+      "has_synced": true,
+      "path": "select/05_シカせんべいのうた_鹿乃子のこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
+      "has_synced": true,
+      "path": "select/06_シカせんべいのうた_鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ (CV.潘めぐみ)",
+      "has_synced": true,
+      "path": "select/07_シカせんべいのうた_鹿乃子のこ_(CV.潘めぐみ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シカせんべいのうた (Instrumental)",
+      "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
+      "has_synced": true,
+      "path": "select/08_シカせんべいのうた_(Instrumental)_鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シカせんべいのうた (Inst)",
+      "artist": "鹿乃子のこ (CV.潘めぐみ)",
+      "has_synced": true,
+      "path": "select/09_シカせんべいのうた_(Inst)_鹿乃子のこ_(CV.潘めぐみ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シカせんべいのうた (Inst)",
+      "artist": "鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲)",
+      "has_synced": true,
+      "path": "select/10_シカせんべいのうた_(Inst)_鹿乃子のこ(CV.潘めぐみ)、虎視虎子(CV.藤田咲).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シカせんべいのうた",
+      "artist": "鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)",
+      "has_synced": false,
+      "path": "select/pl_01_シカせんべいのうた_鹿乃子のこ_(CV.潘めぐみ)、虎視虎子_(CV.藤田_咲).txt"
+    }
+  ]
+}
